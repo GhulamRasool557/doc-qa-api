@@ -5,13 +5,13 @@ You send a question to `POST /ask`, it finds the most relevant document using
 keyword matching, and returns the answer with the document's ID.
 If no document matches, it returns a fallback message.
 
-**Live URL:** https://YOUR-SERVICE.onrender.com
+**Live URL:** https://doc-qa-api.vercel.app
 
 ## Tech used
 
 - Node.js and Express
 - Jest and Supertest for testing
-- Deployed on Render
+- Deployed on Vercel (`api/index.js` + `vercel.json`)
 
 ## How to run it
 
