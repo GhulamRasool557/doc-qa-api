@@ -1,0 +1,62 @@
+[
+  {
+    "id": "doc-1",
+    "title": "Tuition Fees",
+    "content": "Tuition fees are paid at the start of every semester. You can pay at any branch of the partner bank or online through the student portal. A late fee is charged after the due date.",
+    "keywords": ["fee", "fees", "tuition", "payment", "pay", "challan", "dues"]
+  },
+  {
+    "id": "doc-2",
+    "title": "Library Hours",
+    "content": "The library is open from 8am to 8pm, Monday to Saturday. It is closed on Sundays and public holidays. During exam weeks it stays open until 10pm.",
+    "keywords": ["library", "hours", "timing", "timings", "open", "close", "closed", "books"]
+  },
+  {
+    "id": "doc-3",
+    "title": "Hostel Accommodation",
+    "content": "Hostel rooms are shared by two students. Applications open two weeks before each semester. Hostel residents must be back by 10pm.",
+    "keywords": ["hostel", "room", "rooms", "accommodation", "residence", "boarding"]
+  },
+  {
+    "id": "doc-4",
+    "title": "Scholarships",
+    "content": "Merit scholarships are given to students with a semester GPA of 3.5 or above. Need-based scholarships require an application form and proof of family income.",
+    "keywords": ["scholarship", "scholarships", "merit", "financial", "aid", "gpa"]
+  },
+  {
+    "id": "doc-5",
+    "title": "Exam Rules",
+    "content": "Students must bring their student ID card to every exam. Mobile phones are not allowed in the exam hall. Arriving more than 15 minutes late means you cannot sit the exam.",
+    "keywords": ["exam", "exams", "rules", "phone", "phones", "late"]
+  },
+  {
+    "id": "doc-6",
+    "title": "Attendance Policy",
+    "content": "Students need at least 80% attendance in a course to sit its final exam. Medical leave must be submitted with a doctor's note within three days.",
+    "keywords": ["attendance", "absent", "leave", "medical", "shortage"]
+  },
+  {
+    "id": "doc-7",
+    "title": "Transport",
+    "content": "University buses run on 12 routes across the city. Bus cards are issued at the transport office and must be renewed every semester.",
+    "keywords": ["bus", "buses", "transport", "route", "routes", "pickup"]
+  },
+  {
+    "id": "doc-8",
+    "title": "Wi-Fi Access",
+    "content": "Students can connect to the campus Wi-Fi using their student ID and portal password. If the connection fails, contact the IT help desk in Block C.",
+    "keywords": ["wifi", "internet", "network", "password", "connect"]
+  },
+  {
+    "id": "doc-9",
+    "title": "Course Registration",
+    "content": "Course registration opens one week before the semester starts. Students register through the student portal and must clear any pending dues first.",
+    "keywords": ["registration", "register", "course", "courses", "enroll", "enrollment"]
+  },
+  {
+    "id": "doc-10",
+    "title": "Cafeteria",
+    "content": "The cafeteria serves breakfast from 8am, lunch from 12pm to 3pm, and snacks until 6pm. Card payment and cash are both accepted.",
+    "keywords": ["cafeteria", "food", "canteen", "lunch", "breakfast", "meal"]
+  }
+]
